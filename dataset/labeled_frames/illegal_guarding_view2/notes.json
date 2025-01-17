@@ -2,11 +2,11 @@
   "categories": [
     {
       "id": 0,
-      "name": "Foul_moment"
+      "name": "foul_moment"
     },
     {
       "id": 1,
-      "name": "Player"
+      "name": "players"
     }
   ],
   "info": {
