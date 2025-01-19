@@ -4,7 +4,7 @@ import shutil
 from tqdm import tqdm  # Импортируем tqdm
 
 # Укажи путь к твоему датасету
-dataset_dir = '/Users/admlanno/Desktop/Курсовая/dataset/dataset_test'
+dataset_dir = '/datasets/dataset_test'
 images_dir = os.path.join(dataset_dir, 'images')
 labels_dir = os.path.join(dataset_dir, 'labels')
 
