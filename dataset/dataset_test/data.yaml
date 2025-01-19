@@ -1,5 +1,5 @@
-train: dataset/dataset_test/train/images
-val: dataset/dataset_test/val/images
+train: /Users/admlanno/Desktop/Курсовая/dataset/dataset_test/train/images
+val: /Users/admlanno/Desktop/Курсовая/dataset/dataset_test/val/images
 
 nc: 2
 names: [‘player, ‘foul_moment’]
