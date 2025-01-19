@@ -1,8 +1,8 @@
 from PIL import Image
 import os
 
-input_folder = "/Users/admlanno/Desktop/Курсовая/raw_data/Frames/illegal_guarding_1_view2"
-output_folder = "/Users/admlanno/Desktop/Курсовая/raw_data/Frames/normalized_guard_view2"
+input_folder = "/Users/admlanno/Desktop/Курсовая/raw_data/Frames/illegal_guarding_3_view1"
+output_folder = "/Users/admlanno/Desktop/Курсовая/raw_data/Frames/norm_illegal_guard_3_view1"
 
 
 os.makedirs(output_folder, exist_ok=True)
