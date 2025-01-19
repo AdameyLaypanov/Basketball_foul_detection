@@ -1,7 +1,7 @@
 from PIL import Image
 import os
 
-input_folder = "/Users/admlanno/Desktop/Курсовая/raw_data/Frames/illegal_guarding_view2"
+input_folder = "/Users/admlanno/Desktop/Курсовая/raw_data/Frames/illegal_guarding_1_view2"
 output_folder = "/Users/admlanno/Desktop/Курсовая/raw_data/Frames/normalized_guard_view2"
 
 
@@ -22,7 +22,7 @@ print("Изображения успешно отнормированы!")
 # import os
 #
 
-# input_folder = "/Users/admlanno/Desktop/Курсовая/raw_data/Frames/illegal_guarding_view2"
+# input_folder = "/Users/admlanno/Desktop/Курсовая/raw_data/Frames/illegal_guarding_1_view2"
 #
 
 # for filename in os.listdir(input_folder):
