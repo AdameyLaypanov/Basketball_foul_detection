@@ -5,10 +5,9 @@ import albumentations as A
 from tqdm import tqdm
 import random
 
-input_folder = '/Users/admlanno/Desktop/Курсовая/raw_data/Frames/norm_illegal_guard_3_view1'
-output_folder = '/Users/admlanno/Desktop/Курсовая/raw_data/Frames/norm_illegal_guard_3_view1'
+input_folder = '/Users/admlanno/Desktop/Курсовая/raw_data/Frames/illegal_guarding_pos1'
+output_folder = '/Users/admlanno/Desktop/Курсовая/raw_data/Frames/illegal_guarding_pos1'
 
-#
 # os.makedirs(output_folder, exist_ok=True)
 
 
@@ -23,7 +22,7 @@ augmentations = [
 ]
 
 
-augmentation_prob = 0.5
+augmentation_prob = 0.7
 
 
 image_files = [f for f in os.listdir(input_folder) if f.endswith(('.jpg', '.jpeg', '.png'))]
