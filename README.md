@@ -25,8 +25,4 @@ This project is currently under development.
 
 ---
 
-## 🚀 Getting Started
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/AdameyLaypanov/Basketball_foul_detection.git
-   cd Basketball_foul_detection
+
