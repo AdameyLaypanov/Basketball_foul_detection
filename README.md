@@ -11,3 +11,5 @@ Detection of fouls in Basketball and validation of referee's decision
 # mudila ya ne ponimayu che tut kak i gde kak ya te sdelayu
 
 ya pro read me oslishe epta blya sum mudazvon 
+
+che neponyatnogo yo
