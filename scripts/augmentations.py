@@ -5,8 +5,8 @@ import albumentations as A
 from tqdm import tqdm
 import random
 
-input_folder = '/Users/admlanno/Desktop/Курсовая/raw_data/Frames/illegal_guarding_pos1'
-output_folder = '/Users/admlanno/Desktop/Курсовая/raw_data/Frames/illegal_guarding_pos1'
+input_folder = '/Users/admlanno/Desktop/Курсовая/raw_data/Frames/guard_3_view2'
+output_folder = '/Users/admlanno/Desktop/Курсовая/raw_data/Frames/guard_3_view2'
 
 # os.makedirs(output_folder, exist_ok=True)
 
