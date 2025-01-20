@@ -21,7 +21,7 @@ This project focuses on detecting fouls in basketball games and validating the d
 ---
 
 ## 🛠️ Work in Progress
-This project is currently under development. Contributions and suggestions are welcome!
+This project is currently under development. 
 
 ---
 
