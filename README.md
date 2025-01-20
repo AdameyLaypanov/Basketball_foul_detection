@@ -8,7 +8,6 @@ This project focuses on detecting fouls in basketball games and validating the d
 ## 📂 Repository Structure
 
 ### 📁 **Dataset**
-- Contains datasets that differ by the amount of labels.
 - Used for training and evaluating models.
 
 ### 📁 **Frames**
