@@ -1,7 +1,11 @@
 # Detection of Fouls in Basketball and Validation of Referee's Decisions
+
+---
+
 ## 🛠️ Work in Progress
 
 This project is currently under development. 
+
 ---
 
 ## 🏀 Project Overview
@@ -22,11 +26,6 @@ This project focuses on detecting fouls in basketball games and validating the d
 - Python scripts used for data preparation, preprocessing, and augmentation.
 - Includes utilities for frame extraction, labeling, and dataset generation.
 
----
 
-## 🛠️ Work in Progress
-This project is currently under development. 
-
----
 
 
