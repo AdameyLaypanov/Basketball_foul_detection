@@ -4,7 +4,8 @@
 
 ## 🛠️ Work in Progress
 
-This project is currently under development. 
+<h1 align="center">This project is currently under development🔨</h1>
+
 ###
 <br clear="both">
 
