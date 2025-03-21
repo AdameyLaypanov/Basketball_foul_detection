@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['foul', 'no foul']
+
+roboflow:
+  workspace: v-for-foul-detection-in-basketball
+  project: meow_meow
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/v-for-foul-detection-in-basketball/meow_meow/dataset/1
